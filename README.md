@@ -76,8 +76,8 @@ Located in Austin, TX, Westwood High School is known for its rigorous academic e
 ## 📧 **Contact**
 For questions or collaboration opportunities, reach out to:  
 **Nischal Kotamraju**  
-- Email: [nischal.kotamraju@example.com](mailto:nischal.kotamraju@example.com)  
-- GitHub: [NischalKotamraju](https://github.com/NischalKotamraju)
+- Email: [kotamrajunischal101@gmail.com](mailto:kotamrajunischal101@gmail.com)  
+- GitHub: [nischalkotamraju](https://github.com/nischalkotamraju)
 
 ---
 
